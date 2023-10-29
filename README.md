@@ -9,7 +9,7 @@
 
 ###
 
-<h4 align="left">Proficient technologies.</h4>
+<h3 align="center">Technologies that I am proficient with</h3>
 
 ###
 
