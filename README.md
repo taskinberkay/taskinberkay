@@ -64,10 +64,3 @@
 </div>
 
 ###
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/taskinberkay/count.svg?"  />
-</div>
-
-###
